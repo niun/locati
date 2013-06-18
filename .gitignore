@@ -1,0 +1,12 @@
+#project specific
+db_file
+
+#python specific
+*.pyc
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.sw?
+*.out
